@@ -3,3 +3,8 @@ Capstone Project for the IBM Professional Data Science Course.
 
 
 The first 3 files contain the Data Collection Stage of the project.
+
+
+
+
+Notebook originally provided by IBM for educational purposes (Coursera course).
